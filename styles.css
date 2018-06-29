@@ -8,6 +8,7 @@
 
 body, html {
     height: 100%;
+    width: 100%;
 }
 
 .parallax1 {
@@ -97,10 +98,15 @@ color: white;
 
 .Cant {
   color: white;
+  text-align: center;
 }
 
 .Explanation {
   color: white;
   text-align: center;
   padding-top: 5%;
+}
+
+.Divs {
+  background-color: #eeeeee;
 }
