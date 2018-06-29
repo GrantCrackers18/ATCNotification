@@ -1,3 +1,7 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .navbar-fixed-top {
     position: fixed;
     right: 0;
@@ -7,6 +11,7 @@
 }
 
 .hello {
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   color: white;
   padding-top: 150px;
@@ -30,12 +35,12 @@ padding-top: 5%;
   text-align: center;
   color: white;
   padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .features {
     text-align: center;
     color: white;
-    padding-top: 30px;
     font-size: 25px;
 }
 
@@ -52,19 +57,16 @@ padding-top: 5%;
 
 .ul1 {
   list-style-position:inside;
-  font-family: "Lato", Arial, sans-serif;
-  margin: 0;
-  line-height: 1.6;
   color: #eee;
   font-size: 25px;
   min-width: 480px;
+    line-height: 1.6; 
     text-align: center;
     padding-top: 50px;
 }
 
 .ul2 {
   list-style-position:inside;
-  font-family: "Lato", Arial, sans-serif;
   margin: 0;
   line-height: 1.6;
   color: #eee;
@@ -96,6 +98,7 @@ padding-top: 5%;
 .div2 {
   padding-top: 4%;
   margin-left: 5%;
+  padding-bottom: 5%;
   padding-right: 2.5%;
   float: left;
   width: 45%;

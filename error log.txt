@@ -1,0 +1,188 @@
+
+Please enter your exact callsign, then press Enter:
+
+
+Detecting connections...1 detected.
+Narrowing down potential devices...
+
+(0)
+------
+Name: Ethernet 2
+Description: Network adapter 'Realtek PCIe GBE Family Controller' on local host
+IP addresses:
+        fe80::7063:e323:ff86:1e38
+        2600:1700:3560:3300:dc72:fdea:7657:dc45
+        2600:1700:3560:3300:7063:e323:ff86:1e38
+        2600:1700:3560:3300::12
+        192.168.1.89
+
+===============================
+Which of the above is your internet connection?
+Enter the corresponding number: 0
+
+You may now minimize this window. To quit, simply close it.
+Don't forget to register your callsign on Discord!
+
+
+   MESSAGE RECEIVED from EGMC_APP at 10:43:06 AM:
+      closed
+$CQBAW2KP:@94836:ACC:{"config":{"lights":{"strobe_on":true}}}
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530027786154","sender":"EGMC_APP","receiver":"@49999","message":"closed
+$CQBAW2KP:@94836:ACC:{"config":{"lights":{"strobe_on":true}}}"}}
+   MESSAGE RECEIVED from RYR28YU at 10:52:03 AM:
+      EGSS trfc est loc RW04
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028323179","sender":"RYR28YU","receiver":"@22800","message":"EGSS trfc est loc RW04"}}
+   MESSAGE RECEIVED from NRS7013 at 10:52:57 AM:
+      EGKK traffic descending 3000 for 08R
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028377842","sender":"NRS7013","receiver":"@22800","message":"EGKK traffic descending 3000 for 08R"}}
+   MESSAGE RECEIVED from EZY71CB at 10:53:26 AM:
+      Contine approach for 08R
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028406379","sender":"EZY71CB","receiver":"@24220","message":"Contine approach for 08R"}}
+   MESSAGE RECEIVED from AB16NN at 10:53:26 AM:
+      ab16nn could i get a ifr clearance to ellx and a taxi clearance right
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028406668","sender":"AB16NN","receiver":"@21800","message":"ab16nn could i get a ifr clearance to ellx and a taxi clearance right"}}
+   MESSAGE RECEIVED from BAW696V at 10:53:58 AM:
+      EGLL tfc push and start stand 329
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028438521","sender":"BAW696V","receiver":"@22800","message":"EGLL tfc push and start stand 329"}}
+   MESSAGE RECEIVED from BAW399R at 10:54:03 AM:
+      EGLL TFC, final 09L
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028443146","sender":"BAW399R","receiver":"@22800","message":"EGLL TFC, final 09L"}}
+   MESSAGE RECEIVED from EGKK_TWR at 10:56:10 AM:
+      EZY71CB, runway 08R , Cleared to land, surface wind 08010KT
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028570282","sender":"EGKK_TWR","receiver":"@24220","message":"EZY71CB, runway 08R , Cleared to land, surface wind 08010KT"}}
+   MESSAGE RECEIVED from EZY71CB at 10:56:13 AM:
+      Cleared to land 08R
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028573513","sender":"EZY71CB","receiver":"@24220","message":"Cleared to land 08R"}}
+   MESSAGE RECEIVED from BEE429Y at 10:56:42 AM:
+      affirm
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028602225","sender":"BEE429Y","receiver":"@22800","message":"affirm"}}
+   MESSAGE RECEIVED from EZY71CB at 10:59:24 AM:
+      Going to ground 121.8 bye!
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028764128","sender":"EZY71CB","receiver":"@24220","message":"Going to ground 121.8 bye!"}}
+   MESSAGE RECEIVED from BAW399R at 10:59:27 AM:
+      EGLL TFC, rwy 09L vacated, taxi 511 via B A
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028767943","sender":"BAW399R","receiver":"@22800","message":"EGLL TFC, rwy 09L vacated, taxi 511 via B A"}}
+   MESSAGE RECEIVED from EZY71CB at 10:59:53 AM:
+      With you on 26R request taxi to gate
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028793306","sender":"EZY71CB","receiver":"@21800","message":"With you on 26R request taxi to gate"}}
+   MESSAGE RECEIVED from EGKK_GND at 11:00:07 AM:
+      EZY71CB, Taxi 109 via R and K
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028807044","sender":"EGKK_GND","receiver":"@21800","message":"EZY71CB, Taxi 109 via R and K"}}
+   MESSAGE RECEIVED from BAW696V at 11:00:10 AM:
+      EGLL tfc taxying 09R G E A
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028810989","sender":"BAW696V","receiver":"@22800","message":"EGLL tfc taxying 09R G E A"}}
+   MESSAGE RECEIVED from EZY71CB at 11:00:29 AM:
+      Taxi 109 via R and K
+@N:BAW9169:1200:1:51.46073:-0.45171:97:0:8392132:-348
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028829742","sender":"EZY71CB","receiver":"@21800","message":"Taxi 109 via R and K
+@N:BAW9169:1200:1:51.46073:-0.45171:97:0:8392132:-348"}}
+   MESSAGE RECEIVED from FX19 at 11:00:49 AM:
+       cleared Brussels DVR2P Sq 3405.
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028849740","sender":"FX19","receiver":"@21950","message":" cleared Brussels DVR2P Sq 3405."}}
+   MESSAGE RECEIVED from EGKK_DEL at 11:00:58 AM:
+      FX19, Correct, report ready for P/S.
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028858369","sender":"EGKK_DEL","receiver":"@21950","message":"FX19, Correct, report ready for P/S."}}
+   MESSAGE RECEIVED from FX19 at 11:01:04 AM:
+      Request P/S
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028864408","sender":"FX19","receiver":"@21950","message":"Request P/S"}}
+   MESSAGE RECEIVED from EGKK_DEL at 11:01:15 AM:
+      FX19, Hold position, contact ground 121.800 goodbye.
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028875375","sender":"EGKK_DEL","receiver":"@21950","message":"FX19, Hold position, contact ground 121.800 goodbye."}}
+   MESSAGE RECEIVED from EGKK_GND at 11:02:07 AM:
+      FX19, P/S approved face South
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530028927971","sender":"EGKK_GND","receiver":"@21800","message":"FX19, P/S approved face South"}}
+   MESSAGE RECEIVED from AB16NN at 11:03:27 AM:
+      hello atc
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029007601","sender":"AB16NN","receiver":"@25250","message":"hello atc"}}
+   MESSAGE RECEIVED from EGKK_GND at 11:04:59 AM:
+      FX19, What is your squwak?
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029099455","sender":"EGKK_GND","receiver":"@21800","message":"FX19, What is your squwak?"}}
+   MESSAGE RECEIVED from AB16NN at 11:05:09 AM:
+      ATC
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029109038","sender":"AB16NN","receiver":"@25250","message":"ATC"}}
+   MESSAGE RECEIVED from AB16NN at 11:06:14 AM:
+      could i have a ifr clearance to ellx
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029174692","sender":"AB16NN","receiver":"@21950","message":"could i have a ifr clearance to ellx"}}
+   MESSAGE RECEIVED from AAL107 at 11:07:27 AM:
+      EGLL tfc lining up 09R
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029247364","sender":"AAL107","receiver":"@22800","message":"EGLL tfc lining up 09R"}}
+   MESSAGE RECEIVED from EGKK_TWR at 11:07:30 AM:
+      FX19, taxi S ..J ..hold J1
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029250972","sender":"EGKK_TWR","receiver":"@24220","message":"FX19, taxi S ..J ..hold J1"}}
+   MESSAGE RECEIVED from FX19 at 11:07:36 AM:
+      taxi S ..J ..hold J1
+$CQSWR39LF:@94836:ACC:{"config":{"lights":{"strobe_on":true}}}
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029256702","sender":"FX19","receiver":"@24220","message":"taxi S ..J ..hold J1
+$CQSWR39LF:@94836:ACC:{"config":{"lights":{"strobe_on":true}}}"}}
+   MESSAGE RECEIVED from FX19 at 11:08:07 AM:
+      rgr
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029287055","sender":"FX19","receiver":"@24220","message":"rgr"}}
+   MESSAGE RECEIVED from EGKK_TWR at 11:08:26 AM:
+      FX19, rgr thats amended for you
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029306237","sender":"EGKK_TWR","receiver":"@24220","message":"FX19, rgr thats amended for you"}}
+   MESSAGE RECEIVED from BAW696V at 11:09:41 AM:
+      You go first :)
+$CQAZA97U:@94836:ACC:{"config":{"lights":{"strobe_on":true}}}
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029381580","sender":"BAW696V","receiver":"AAL107","message":"You go first :)
+$CQAZA97U:@94836:ACC:{"config":{"lights":{"strobe_on":true}}}"}}
+   MESSAGE RECEIVED from AAL107 at 11:10:00 AM:
+      Thank you :D
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029400375","sender":"AAL107","receiver":"BAW696V","message":"Thank you :D"}}
+   MESSAGE RECEIVED from EGKK_TWR at 11:10:36 AM:
+      FX19, taxi via S ..J..hold J1
+@S:BAW994G:2000:1:51.46925:-0.48648:97:0:4096:-347
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029436064","sender":"EGKK_TWR","receiver":"@24220","message":"FX19, taxi via S ..J..hold J1
+@S:BAW994G:2000:1:51.46925:-0.48648:97:0:4096:-347"}}
+   MESSAGE RECEIVED from FX19 at 11:10:44 AM:
+      taxi via S ..J..hold J1
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029444459","sender":"FX19","receiver":"@24220","message":"taxi via S ..J..hold J1"}}
+   MESSAGE RECEIVED from AAL107 at 11:15:01 AM:
+      Have a good flight!
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029701009","sender":"AAL107","receiver":"BAW696V","message":"Have a good flight!"}}
+   MESSAGE RECEIVED from EGKK_TWR at 11:17:49 AM:
+      FX19, behind the landing BAW 777 via J1 line up and wait runway 08R behind
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029869805","sender":"EGKK_TWR","receiver":"@24220","message":"FX19, behind the landing BAW 777 via J1 line up and wait runway 08R behind"}}
+   MESSAGE RECEIVED from FX19 at 11:17:56 AM:
+      behind the landing BAW 777 via J1 line up and wait runway 08R behind
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029876246","sender":"FX19","receiver":"@24220","message":"behind the landing BAW 777 via J1 line up and wait runway 08R behind"}}
+   MESSAGE RECEIVED from EGKK_TWR at 11:18:57 AM:
+      FX19, line up and wairt 08R landing traffic at 6 miles
+http://ragit.duckdns.org:65530
+{"privateMessage":{"timestamp":"1530029937456","sender":"EGKK_TWR","receiver":"@24220","message":"FX19, line up and wairt 08R landing traffic at 6 miles"}}
