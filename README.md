@@ -1,2 +1,4 @@
-# ATCNotifier
-App for iOS and Android for VATSIM ATC Notification
+# ATCNotification
+ATCNotification
+
+Website for ATCNotification, a program by Norris Ng
