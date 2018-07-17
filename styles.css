@@ -130,6 +130,7 @@ height: 150%;
 .faqtitle {
     background-color: #555656;
   text-align: center;
+  max-width: 70%;
 }
 
 .spacing {
@@ -142,4 +143,57 @@ height: 150%;
   font-size: 75px;
   text-align: center;
 font-family: 'Nunito Sans', sans-serif;
+}
+
+.parallax3 {
+    /* The image used */
+    background-image: url("pic1.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.FAQQ {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.FAQList {
+    font-family: 'Metrophobic', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding-bottom: 2%;
+  }
+
+.div3 {
+  clear: left;
+  padding-left: 2.5%;
+  float: left;
+  width: 45%;
+}
+
+.FAQA {
+  text-align: center;
+  font-size: 22px;
+}
+
+.div4 {
+    clear: right;
+    padding-right: 2.5%;
+    float: right;
+    width: 45%;
+}
+
+.lol {
+  font-size: 10px;
+  text-align: center;
+  color: white;
 }
